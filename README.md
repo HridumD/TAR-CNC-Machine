@@ -1,8 +1,7 @@
 # TAR-CNC-Machine
 Quick basic Custom CNC Machine
 
-## Images
-- Image of assembled product (yet to come)
+## Relevant Images
 - Image of CAD (yet to come)
 - Image of Electronics/PCB (yet to come)
 

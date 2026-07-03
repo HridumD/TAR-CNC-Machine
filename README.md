@@ -14,7 +14,7 @@ Quick basic Custom CNC Machine
 - Linear rails for stable movement and support
 - Aluminum Extrusion for main body
 - Raspberry pi for control
-
+- Hall effect sensors for homing
 
 
 ## Relevant Links
